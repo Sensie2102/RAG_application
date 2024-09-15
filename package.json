@@ -1,0 +1,14 @@
+{
+  "name": "troubleshoot-fuzzy-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "flexsearch": "^0.7.0",
+    "googleapis": "^144.0.0"
+  }
+}

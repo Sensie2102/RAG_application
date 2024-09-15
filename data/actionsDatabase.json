@@ -1,0 +1,366 @@
+[{
+  "action": "T/S Actions",
+  "intent": "Script"
+},
+{
+  "action": "Budget rebalancing between multiple campaigns",
+  "intent": "Hi"
+},
+{
+  "action": "Switch to banner ads",
+  "intent": "Intent \n- To improve better conversion rate (c2pr especially), as we are adversting particualr product which is mostly best seller.\n- To avoid any product mix change problems. \n- This can also increase performance, because we can give more clarity about product in detail which can further improve CTR, and can also give better C2PR if it's good product.\n- Banner ad can also sometimes help in RTO, if for suppose there's one particular product with less RTO, we can run banner ad on this for better rto too. \nResults \n- Improvement in Marketing Cost"
+},
+{
+  "action": "Interest based audience",
+  "intent": "Intent \n- Our audience right now is very vast which is giving us a cheaper marketing cost but higher RTOs. \n- We want to narrow down our audience and target only the audience with the intent of buying our products.\n\nResults\n- Marketing cost may be slightly higher/expensive. \n- We might get a better delivery rate with this campaign since the people buying with this ad will have an intent to buy our products. Conversions are not just purchase driven, they are intent driven\n\nExamples\n- Urban Cultry: Interest based audience has given the same marketing cost as other campaigns and the individual interest campaign has given lower RTOs\n- Saree Meniya- Marketing cost is higher compared to other campaigns but still we have seen reductions in RTOs"
+},
+{
+  "action": "Switch ON catalog sales",
+  "intent": "Intent\n- When major Ad spend is on very less number of products\n- Catalog size is decent and differnt category of products.\n- To start spending on more number of products and find the best product for the market\n\n Results\n- Able to pick differnt products and will spend marketing budget on broader range of products\n- Marketing wiil Fluctuate, need to look at marketing on weekly level\n\nExamples with past cases\n- We tried Catalog sales on Mali and Om Gayatri and we got multiple Products picked and got better conversion cost on their conersion ads and banner ads and both accounts are in life time profits"
+},
+{
+  "action": "Switch OFF catalog sales",
+  "intent": "Intent\n- When Marketing is unstable even at week level after starting catalog sales\n- Campaign did good for some amount of time and then started geting unstable, indicating that we have found out our best performing products, now the ad has started spending on unfit market products"
+},
+{
+  "action": "Using lookalike audience",
+  "intent": "Intent\n- We have a decent size audience aquired by our Sales Campaigns\n- We want to bring more of our lifetime customers to our Website\n\nResults\n- Improves and Refines our Audience quality\n- Improves our net conversions in the intended bucket: Delivered lookalike tends to improve our delivery%, Purchase lookalike tends to improve our C2PR/Website purchases, Website Visitor lookalike improves our ClickRate in the ad\n- Enables us to capture our past customers and start building our Organic Audience/Customers\n\nExamples\n- Purchase lookalike has increased C2PR for Vh Brother Seller\n- Delivered looaklike has very slightly reduced RTO for some sellers\n- Website Visitor lookalike has improved CTR for Saree Maniya"
+},
+{
+  "action": "Run women only campaign",
+  "intent": "Intent\n- We are a women category brand\n- Most(70%) of our current audience is male\n- We need to target women audience since our RTO is very high\n- We have seen cases in the past where we get lower RTOs on women brands when the audience is mostly female\n\nResults\n- Benefits: Significant RTO reduction resulting in increased profits\n- Trade-Off: Marketing Spend/GMV might increase due to reduced audience size, but RTO reduction will cover for it\n\nExamples\n- Urban Cultry: Saree seller with All Audience campaign and RTO 35% due to major spend on Women Audience\n- Serene Silk: Saree seller with All Audience campaign and RTO 55% due to major spend on Men Audience, Since we have moved him to women only campaigns we have seen his RTO drop to 40% with Marketing Spend/GMV remaining same"
+},
+{
+  "action": "Run campaign on Tier 1 only",
+  "intent": "Intent : To improve marketing performance, whereas say product is unique or a bit of high AOV, which maybe Tier3 people might not be interested in buying it, say for example skating shoes - the probability of Tier 1 people willing to buy this is more than Tier 3 knowing about product.\nResult: Better marketing cost"
+},
+{
+  "action": "Remove brand from product name",
+  "intent": "Intent : Product name is one of the important things that gets attention in ad along with image, and price. The first four words of product name is very important because that's what till people most read, and we need to give most of the clarity about product in this little. Adding brand name which is showing infront of all product names in taking out the understanding about our product being displayed at the moment and it's too repetitive. \n\nResult : Removing redundant words such as brand names will help us improve CPM which leads in lower CPC."
+},
+{
+  "action": "Remove prices from headline",
+  "intent": "Intent : Our prices are a little higher than marketplace, and in order to bring the extra audience, who might stop before clicking our ad because of our little higher price showing on the ad level. For these purposes, we might use this technique.\nResult : CTR should improve, bringing more audience until website and product page , where we will have a little more tricks for conversion rate like sale module, product details, purchase activity etc for purchase rate. "
+},
+{
+  "action": "Remove all high RTO states from audience",
+  "intent": "Intent : If Marketing is good, but RTO is high, which we check on campaign and state level Pnl , there are some particular states where RTO is high, we exclude those states in our ad, to improve RTO. Also this is after getting data. While starting out a new campiagn, we are usually starting with all open states from which we used to exclude some high RTO known to be states, but with improved logistics support, we are not seeing any significant high RTO here\n\nResult : Better RTO, at cost of Marketing though. "
+},
+{
+  "action": "Run on all age group",
+  "intent": "Intent\n- Increases reach and capture a diverse audience.\n- Finds out the best age group for our product category\n\nBenefit\n- Potential for higher CTR and engagement from a broader customer base, leading to increased conversions.\n- Lower marketing costs and better campaign optimisation\n\nTradeoff\n- Resources may be spread thin across multiple segments, potentially increasing CPM"
+},
+{
+  "action": "Run video ads",
+  "intent": "Intent \n- To get products picked in marketing when there is low traction on Banner & Conversion ads. \n- Increase brand awareness, engagement, and conversions through video ads.\n \nBenefit \n- Better marketing on single product - Ease in managing stock - Increase in order volume. Increase CTR and brand recall for higher conversions.\n\nTradeoff\n- Effort in making good quality video\n-  Potentially higher CPM"
+},
+{
+  "action": "Run campaign on specific product category",
+  "intent": "Intent\n- Maximize performance by focusing on a high-performing product category\n\nBenefit\n- Targeted marketing for a proven successful product category can increase conversion rates and CTR\n\nTradeoff\n- Potential limitations in reaching a wider audience and exploring other product categories within your business."
+},
+{
+  "action": "Run campaign on specific product AOV",
+  "intent": "Intent: When we have a huge AOV range of products - mixer of both low AOV and high AOV, and when facebook is spending on both AOV products, but not able to give great results, then picking up an AOV range ourself and optimising ad level, audience and product page (testiomonilas, widgets) etc, anything and everything as per this AOV will help us give best in this particular AOV range we selected. \nResult : Will help our audience to have better user experience in terms of conversion improving C2PR. \nExample : For eg, I'm a customer who clicked an ad of product AOV 750 which is range of products 700-1000, where as all other widgets recently viewed, best sellers etc everything around is showing an AOV of 3000. Then if I want to explore more products of siilar AOV on which I clicked upon, say 700-1000, as I can't see those products, I might drop off in between. "
+},
+{
+  "action": "Run only on best sellers",
+  "intent": "Intent:\n-product mix has changed and marketing isn't performing well\n-marketing used to run well on best sellers\n-to sell bestsellers again\n\nResult:\n-better marketing performance & overall account learning\n\nExamples:\nFeelGood - ran marketing on best sellers of profitable weeks, marketing has picked\nWomen Elegence - product mix has chnaged after adding new products, after running on best sellers marketing has improved."
+},
+{
+  "action": "Ad copy guidelines",
+  "intent": "Intent:\n-Click-Through-Rate is very low\n-to give customer a brief on what category/kind of products this business deals in\n-to attract the customer by showing: Free delivery, minimum discount, COD, other discounts & coupons\n\nResult:\n-helps getting better CTR, leading more traffic on website.\n-overall better marketing performance.\n\nExamples:\nWellnest: showing high quality, fade resistant in ad copy helped improving marketing performance\nKarthard: showing Buy1Get1 Free offer in ad copy gave better marketing performance"
+},
+{
+  "action": "Only Insta/FB marketing",
+  "intent": "Intent:\n-marketing performance on one platform is way better than other platform\n-ad spend on better performance platform is lower than other bad performing platform\n\nResult:\n-helps in improving overall marketing performance.\n\nExamples:\nWellnest - ran a separate campaign on insta only as performance was good on insta and ad was not spending much on instagram="
+},
+{
+  "action": "Cost cap campaign",
+  "intent": "Intent : Giving a goal to facebook that we want our Cost per purchase to be within some range say 50 rupees, then facebook will want to spend in such way that we get orders at this cost, if facebook is confident about this goal being met, it might not spend it's full budget yet.\n\nResult: Better Cost per purchase "
+},
+{
+  "action": "Using USP in headline instead of Product name",
+  "intent": "Intent:\n-the product image is self explanatory and it is clear from image what the product is\n-we attract the customer by showing extra features of product or special offers or quality of product\n-we utilize the headline section of ad to build confidence in customer and trust for brand\n\nResult:\n-this help attract more customer and ultimately better CTR which results in more traffic and better marketing performance\n-by showing special features/offers/quality it helps customer making decision and hence better conversion rate\n\nExamples:\nHMTe - have seen significant improvements in performance by showing \"6 Months Warranty\" in ads headline"
+},
+{
+  "action": "Using frames in ads",
+  "intent": "Intent -\n- Frames in Facebook ads enhance brand visibility.\n- They promote specific products/offers.\n- They foster community engagement.\n\nResults - \n1. Lowered CPM as it improves quality of ad \n2. Improved CTR  \n\nExample - \nUsed it in SP world wide seller. Mentioned about free gift on frame + discounts on best sellers"
+},
+{
+  "action": "Traffic ads on website instead of sales",
+  "intent": "Intent - \nWhen running traffic ads on your website instead of focusing on direct sales, your intent may be to drive targeted traffic to your website and increase overall visibility, engagement, and brand awareness.\n\nResult - \n1. Very low CPM\n2. Heavy engagement on products \n3. High CTR \n4. Mainly it can be used to find what kind of audience will ever like these products or will those products\n\nExample - \nRunning a traffic WhatsApp ad enables mgsv to get orders via WhatsApp and build trust with customers"
+},
+{
+  "action": "Retargeting campaign",
+  "intent": "Intent - \n- Increased Conversions: Reminder ads for interested users improve conversion rates and drive sales.\n- Precise Audience Targeting: Custom audiences based on website visitors, app users, etc., help focus efforts on potential customers.\n- Enhanced Brand Recall: Consistent ad exposure reinforces brand presence and boosts recognition.\n- Ad Personalization: Tailored ads based on previous interactions capture attention and drive engagement.\n- Cost-Effectiveness: Retargeting often offers higher ROI and lower cost per acquisition compared to other advertising methods.\n- Cross-Channel Reach: Ads follow users across platforms and devices, maximizing brand exposure.\n- Campaign Optimization: Robust analytics and tracking tools enable data-driven optimization for better performance.\n\nResults - \n1. Overall better conversions\n2. Better Spend/GMV\n3. As people have engaged with the products before so less RTO and cancellation \n4. Less fake orders\n\nExample - \n1. We hve tried it with many clients and for almost every client which have sufficient customer already via website. This campaign has been successful. 1. MGSV 2. Serene Silk 3. Fashion jewel"
+},
+{
+  "action": "Retention campaign"
+},
+{
+  "action": "Optimise on ROAS",
+  "intent": "Intent\n- To get maximum purchases/conversions on the amount we spend on our ads\n- Gives the maximum possible ROI on facebook and the cheapest marketing cost\n\nResults\n- Marketing cost is very cheap.\n- Targetting larger audience at the same budget\n- Might lead to slightly higher RTOs, but the lower marketing costs end up covering for it. "
+},
+{
+  "action": "Duplicate campaign",
+  "intent": "Cause\n-Product Mix has changed \n-Random Shoot up in marketing\n-Glitch in campaign \n\nIntent\n-To revert the marketing to the previous best running performance. \n- To give the fresh start to the marketing  \n- We want other products to pick at marketing\n- Since we faced the issue so we want that marketing should run at fresh. \n- All accounts has been affected with this glitch so we are duplicating the campaign.\n\nResults\n- Marketing can be imporved to the previous best performance, \n-Product Mix can be reverted \n-Glitches impact can be resolved (if nothing found in change log) \n\nExamples\n-Hues Land The campaign was not spending, but after duplicating campaign started working at same marketing. \n-Diruno: While T/S product mix got changes but after duplicating product mix got revert. "
+},
+{
+  "action": "Make a campaign with different ad copies",
+  "intent": "Intent : When we want to try on different banner ads on one campiagn, giving a budget to campiagn and leaving the best decision to facebook to spend of whichever ad level is performing well amongst others. It's like 3 individual banner will capacity of full campiagn budget , if say particular banner say banner 1 is performing well, facebook automatically starts spending more on this. \n\nResult : Improves marketing , and we will have an understanding which campiagns will perform well."
+},
+{
+  "action": "Editing primary text according to ads",
+  "intent": "Intent : Need to have relevant primary text that needs to tell about category or types of products for which we have put our advertisemnent for.\nResult: This will result in good user experience, which will lead to better relevant score eventually leading to better CPM. "
+},
+{
+  "action": "rectify images cutting in ad copy",
+  "intent": "Intent : Image is an improtant factor, which makes an user click the ad, it being cut will lead user to ignore the ad and making it's relevancy lesser and hence increases CPM. So, make sure image is not being cut and white space is avoided where possible. \n\nResult: Better CPM and less CPC, eventually helping marketing cost \n\nHow to rectify: If image is cut orginally on product page too, then change images or atleast put the right first image. If image is fine on product page, you can fix it by selecting- zoom out to fit, automatic color (to remove white space)"
+},
+{
+  "action": "Slideshow on in ad copy",
+  "intent": "Intent : Putting slide show on helps showing all angles of products which has multple images, it will help in better conversion, It's almost like a video out of all photos clubbed \nResult : Better conversion, marketing cost "
+},
+{
+  "action": "Run campaign on Metro only",
+  "intent": "Intent : When RTO is high, and we have obsereved lower RTO Tier wise RTO split data and observed that lower RTO is on Metro cities, then we shift our camp to metro, marketing cost is bit higher because of narrow audience \nResult : Helps in RTO, at cost of makreting "
+},
+{
+  "action": "Switch to original audience option",
+  "intent": "#N/A"
+},
+{
+  "action": "Check Page quality score",
+  "intent": "Intent : Page quality score affects CPM a lot, so maintaining a good page score is important .\nWhat is it: Facebook sends a survey to some of customers who ordered from our site and ask for their experience, if their feedback is good, CPM will be good, and vice-versa. And even bad comments of product on our fb page can also lead to bad score \nResult : If CPM is good, will have better reach and better CPC"
+},
+{
+  "action": "New FB page",
+  "intent": "Intent : Fb page decides a lot in CPM and conversion rate, let's say all other cpm gaps were rectified like, no white background images, no image cut, fb score is good etc,this helps in better cpm, if still page score is bad and our cpm is high and overall marketing is not good, then after trying all other options, and nothing worked, we sometimes consider this option \nResult : For better marketing, when all gaps are cleared and tried every trick we know, then we take call of page change for better marketing "
+},
+{
+  "action": "Increase % discount",
+  "intent": "Cause\n-As discount percentage is less between MRP & SP\n-PPO to Buy Now is low \n-ToFu (Top of the Funnel starts here Buying Cycle) \n\nIntent\n-To convert more customer from Landing Page to Buy Now. \n- Customer Feel that he is getting discount on MRP.  \n- A large discount % may look fake so to keep it real set it to 50% to 70%. \n- This way product page will look more compelling to customer. \n\nResults\n- PPO to Buy Now (Button) Conversion will going to increase.  \n- Customer feels that he is getting the product at best price.  \n\nExamples\n-Zaaliqa: was having only 40% MRP to SP discount so we changed it to 60% to get more customers in the buying funnel.  \n"
+},
+{
+  "action": "Reduce % discount",
+  "intent": "#N/A"
+},
+{
+  "action": "Increase COGS",
+  "intent": "Here we Reduce the Selling Price.\n\nCause\n-Seller's Product is selling on Other Market Place at low prices so to compete with them we reduce the selling price. \n\nIntent \n-We reduce the selling price of seller's catalog keeping the COGS constant so that COGS will cover most of its part. \n\nResult\n-Since we have reduced the cost price therefore from now COGS will cover more part of selling price. \n-We also expect for decrease in RTO percentage. \n-Product on Amazon and Flipkart are some ways to benchmark the product price of the product.  \n\n"
+},
+{
+  "action": "Reduce COGS",
+  "intent": "Here, COGS percentage is High with respect to marketing and logistics. Here Reduce COGS means is to reduce the COGS % so that we can have buffer for Marketing and Logistics.  \n\nCause\n-As COGS is covering most of the part, so we have less space for marketing, Logistics. \n\nIntent\n-Is to reduce the COGS % by inceasing the selling price.  \n\nResults \n-Less part of COGS will be there in the product price \n\nExample:\nRoyal Rajgharana Saree COGS were 60% so we repriced the COGS at 45-50% to have a margin of safety for marketing and other independent metrics.   \n\n  "
+},
+{
+  "action": "Wrong COGS given, ask for correct COGS",
+  "intent": "Intent\n-To improve the performance of the marketing\n-To compete with the other marketplaces\n-Correct Selling Price will help to gain the trust of customers\n\nResults\n-Number of sales increase significantly\n-Ratings of the products improve\n-Achieved the good customer experience\n-Reduced RTO\n\nExamples\n-Bansidhar Fabrics sales improved after having correct Cost Prices of the products before that number of sales were very less\n-Arkia sales increases as well as RTO also reduced after having correct Cost Prices"
+},
+{
+  "action": "End with 9",
+  "intent": "Perception of Lower Price \n-Ending a price with 9 creates the perception of a lower price in the customer mindset\nFor Example - 999 appeares significantly lower than 1000 even though difference is 1\n\nCustomer Psychology\n-Consumers associate prices ending with 9 with discount or deals. They percieve the price as a special offer or a bargain\n\nPricing Perception\n-Prices that end in 9 are often associated with the perception of precision or accuracy"
+},
+{
+  "action": "Increase/Decrease COGS only for certain set of products",
+  "intent": "Intent\n-To reduce RTO and increase sales if Selling Price is high for certain set of products\n-To make more profits on certain set of products for example best sellers if Selling Price is less as compare to other marketplaces\n-To run marketing on effective Selling Price\n\nResults\n-Seller will get more profit if Selling Price increased but earlier Selling Price was less\n-Helps to reduce RTOs if Selling Price reduced but earlier Selling Price was high\n\nExamples\n-In case of Cozami seller seller was on breakeven from few days so had a call to the seller to reduce the cost price of certain products that helped to achieve profitability"
+},
+{
+  "action": "New pricing calculator",
+  "intent": "#N/A"
+},
+{
+  "action": "Bottoms up pricing",
+  "intent": "#N/A"
+},
+{
+  "action": "Switch ON modular cancellation",
+  "intent": "Intent\n-To avoid cancellation from the seller side if seller calling style is not upto the mark\n-To reduce the chances of RTO if gives authority to customer by message\n\nResults\n-Helped significantly to reduce the chances of RTO\n-Helped to have good customer experience if Seller calling quality is not good"
+},
+{
+  "action": "Switch OFF modular cancellation",
+  "intent": "Intent\n-To decrease the marketing expense over a single product\n-To reduce cancellation from the customer side \n\nResults\n-Helped to decrease cancellation from the customer side if customer side cancellation os very high\n-Helped to reduce marketing cost because however a product is ordered and cancelled but on cancelled product marketing spend was there"
+},
+{
+  "action": "Ask seller to start calling before dispatch",
+  "intent": "Intent\n-To improve the performance of the RTO (decrease)\n-To Avoid the delivery with the fake customer\n-To decrease the logistic charge for the overall sales\n\nResults\n-remove the fake customer with a decent way to call. \n-Reduce the RTO by increasing the cancellation by the seller side.\n-Achieved the good customer experience\n-Chance to increase the repeat customer.\n\nExamples\n-Parjuar improved RTO(Decrease) after having calling with coustmer before that RTO is very much High"
+},
+{
+  "action": "Ask seller to not call and dispatch all orders",
+  "intent": "Intent\n-To decrease the marketing expense overall sales\n-To Avoid Hign cancellation of seller side\n-To increase the delivery experience with NDR Conversion. \n- If seller calling quality not good and RTO is so high then stop calling.\nResults\n- There is a chance to get more profit ( When RTO lesser)\n- Some coustmer don't pick the unknown number their is a chance to coustmer picking call of delivery boy ( because vo company ke number se call krte h) So result is RTO Lesser\n-Adjust the marketing budget with lesser cencillation.\n-"
+},
+{
+  "action": "Start RTO adjusted",
+  "intent": "Intent\n- To reduce overall RTO\n- Expailnation: In the normal Conversion Campaign, we pass only purchase events as the campaign's audience learning, giving us the cheapest possible marketing cost. With RTO Adjusted Marketing, we also pass yesterday's delivered events/orders along with the purchase events. Hence, there is no reason for our marketing to become expensive because the purchase events are still passed as before. \nBut the delivered events increase the audience on our campaign which have the intent to accept their orders hence increasing our net delivery%. Thus minimizing RTO.\n\nResults\n- Benefits: Significant reduction in RTOs by 5-10%, giving us decent improvement in our profits and buffer to scale/grow our account further. \nTrade-off: In 99% of the cases, marketing cost has remained the same and even become cheaper in some cases. In the rest 1% marketing cost has gone expensive that normal but that is mainly due to other external factors, not due to the RTO adjusted action.\n\nExamples\n- Serene Silk Marketing Cost was cheaper and RTO got reduced by 7-8%\n- In Street Mod, Marketing cost remained exactly the same and RTO got reduced by 5%"
+},
+{
+  "action": "Remove specific products/product sets for RTO",
+  "intent": "Intent\n-Remove these product/product sets from marketing whose RTO is so high.\n-Those product/product set has to be removed whose lesser order and RTO are high.\n-To decrease the logistic and marketing charge for the overall sales\n-Have to do this to improve our P & L matrix.\n\nResults\n-It will spend the budget of its marketing on the Profit making Product.\n-RTO matrix will be improved\n-Our product mix will be increasing in place of the product that has been removed.\n-Marketing can be a little fluctuate but later slowly will be adjusted.\n\nExamples\n-Shree Leela improved RTO(Decrease) after Taking this decision  before that RTO is very much High"
+},
+{
+  "action": "Remove specific states from campaign",
+  "intent": "Intent\n-Remove these States from marketing whose  Make RTO is so high.\n-Those state has to be removed whose lesser order and RTO are high.\n-To decrease the logistic and marketing charge for the overall sales.\n-Have to do this to improve our P & L matrix.\nResults\n-It will spend the budget of its marketing on another state whose already has a better result.\n-RTO matrix will be improved\n- Chance to increase sales with other states.\n-Marketing Spend/GMV might increase due to reduced audience size, but RTO reduction will cover for it\n\nExamples\n-Parjuar improved RTO(Decrease) after having remove the M.P. and rajasthan  from its campaign  before that RTO is very much High"
+},
+{
+  "action": "Try express shipping",
+  "intent": "Intent\n- shifting to Express Shipping results in low S2A ( ship to attempt ), which means it reduces your average S2A\n- It reduces the time of products reaching to customers and hence results in less RTO number\n\nResult\n- shifting to express shipping has resulted in less RTO\n\nTrade off\n- Shipping charges are comparatively high\n- As shipping charges are higher, in low AOV products we can't afford the prices"
+},
+{
+  "action": "Run on online/prepaid only",
+  "intent": "#N/A"
+},
+{
+  "action": "Removing irrelevant age group",
+  "intent": "Intent\n- As we check campaign performance over the age group to optimize our ads even further\n- Removing irrelevant age groups, i.e when spending is high on a certain age group and less number of conversions are seen, we can take this step to optimize our marketing, and as it directly affects our spend/gmv,\n\nResult\n- Better marketing conversion i.e spend/gmv\n- sometimes removing irrelevant age groups helps us in improving RTO\n\nTrade-off\n- We can see an increase in CPC and CPM, as we are narrowing down our audience\n"
+},
+{
+  "action": "Send packing/brand video on whatsapp",
+  "intent": "Intent\n- When a customer places an order through our website, by sending packaging/brand video on WhatsApp it helps us gain the trust of the customer, as they are aware of what they can expect when they receive their orders\n- Customers gets aware of the brand, and result in less RTO\n\nResult\n- Results in less RTO\n- And high chances of people buying the products again from same website"
+},
+{
+  "action": "Move to flat rates",
+  "intent": "Intent\n- We move to flat rates when we want to lower our logistic cost\n- As on normal delivery rates, for example, 0.5kg Delhivery Surface charges 49rs and 30rs COD handling charge and if that gets parcel RTO we have to pay 0.9 of our forward charge, resulting in a total of 124rs, and on other hand flat rates for 0.5kg Delhivery Surface will charge us 89rs, including COD handling charge and RTO charge, so we save 35rs on order level\n\nResults\n- It directly relates to our l_nmv%\n- Reduction in significant logistic rates, when our RTO is high"
+},
+{
+  "action": "How to check product level pnl - and figure low RTO product",
+  "intent": "#N/A"
+},
+{
+  "action": "Banner guidelines",
+  "intent": "Intent \n- We run a banner ad to get more conversion for a specific product/group of products or to Improve marketing conversion for a seller where we have identified a hero product/group of products.\n- Basic guidlines to get a good banner : should have good theme/graphics, should convey discount and price, can have brand logo/name /website - helps in brand recognittion.\nResults\n- Banner have historically shown better conversion as compared to catalog-image ads\n- can prove useful to add information about the product (graphic/text) - reducing confusion and improving RTO\nExamples\n- Hmte, Homerz"
+},
+{
+  "action": "Add frames to product ads",
+  "intent": "Intent  \n- Improve quality of Image - can be used where we don't havve good quality product images\n- Fill in White space so that porduct images can fit to the frame of ad.\nResult\n- Using frames can improve quality of the image and reduce white space which in turn reduces CPM, Imroves multiplier - Weight of ad as a whole for facebook algorithms)\nExample\nGemstone sellers\n"
+},
+{
+  "action": "Change theme",
+  "intent": "Intent\n- We can change the theme on website to suit categoriy/ products.\n- Improving UI\nResults\n- We can change themes to tune/ affect our Website opened to Purchased Funnels."
+},
+{
+  "action": "Change banners on home page/product page",
+  "intent": "Intent\n- Visual Appeal: A new banner can refresh the overall look and feel of your website : Engage users\n- Branding and Messaging: The banner is a prominent space to communicate your brand's message, values, and unique selling proposition. \n- A banner can be an effective location for a CTA, encouraging visitors to take specific actions such as making a purchase\n- Timely Promotions: Updating the banner can be particularly useful for promoting seasonal or time-sensitive offers\n- Brand Perception: Regularly updating the banner with high-quality visuals and compelling content can signal to users that your brand is active, current, and invested in delivering a great online experience.\n\nResults\n- Improve conversion funnels\n- Promote new products\n- Enhance brand perception"
+},
+{
+  "action": "Connect own domain",
+  "intent": "#N/A"
+},
+{
+  "action": "change domain in catalog - if required",
+  "intent": "#N/A"
+},
+{
+  "action": "Change size chart",
+  "intent": "1. Reduces RTOs and Returns\nA clear and accurate size chart helps customers choose the right size the first time, and not be unsure about the fit of the product they'll receive, reducing the likelihood of RTOs, returns and exchanges due to improper fit. This improves customer satisfaction and saves the business money on processing returns and shipping replacements.\n\n2. Builds trust and confidence:\nProviding detailed size information demonstrates transparency and builds trust with customers. They feel more confident about their purchase knowing they have all the necessary information to make an informed decision.\n\n3. Improves conversion rates:\nWhen customers are unsure about sizing, they're more likely to abandon their carts. A size chart removes this uncertainty, leading to higher conversion rates and increased sales."
+},
+{
+  "action": "Change product naming/Improve product naming",
+  "intent": "1. In an ad, customers only see the first 2-3 words of the product name. Giving as much important information about the product in these few words, helps in making it clear to the customer exactly what they'll be receiving if they place an order. For example, if you're selling a set of a few products, starting naming with \"Set of x\" helps. \n2. On the product page, all the information we give customers about our products play a part in driving them to place an order. Avoiding spelling errors, keeping the names short by removing any irrelevant/redundant words are good practices. "
+},
+{
+  "action": "Add product attributes",
+  "intent": "1. Attributes is the section of the product page where all relevant information is provided in a short and easy-to-read manner.\nThis helps in giving customers clarity about the specifics of the product they're looking at. For an apparel product, attributes can include things like material, stretch, fabric care, etc "
+},
+{
+  "action": "Add product descriptions",
+  "intent": "- Intent\n1. Bulids Trust over our Brand\n2. Reduce confusion about Prodcut type ,Quality,Features  , hence give confidence in Mind of Customer  , leading to swift checkout\n- Results(Benefits&Trade-Offs)\n1.purchaser's Mind Calrity\n1.1 - Reduce RTO because of confusion\n1.2 - reduce Possiblity of return\n1.3 - increase Product Page to Buy now conversion( better C2PR) \n2 - if Too long , can take a lot of space on Product Page(View in mobile), can in few cases Reduce C2Pr\n- Examples with past cases\n1.Karm Fashion (better Purchase and Reduced RTO)\n2.Bharat Tex , hidecor , Wellnest- in bedsheets\n3.Canizzaro \""
+},
+{
+  "action": "Improve/Add multiple product images",
+  "intent": "- Intent\n1. Reduce confusion about size , give confidence in Mind of Customer  , leading to swift checkout\n- Results(Benefits&Trade-Offs)\n1.purchaser's Mind Calrity\n1.1 - Reduce RTO because of confusion\n1.2 - reduce Possiblity of return\n1.3 - increase Product Page to Buy now conversion( better C2PR) \n- Examples with past cases\n1.Karm Fashion , Style By sharana - With high AOV Like >2000 per piece , its very necessary to include multiple Prodcut Images , Adding Prodcuts Video (and Turn on \"send Prodct Video with order Confirmation\" in Dashboard >settings > Advanced Communication  \n2.Bharat Tex , hidecor , Wellnest- in bedsheets multiple Product images are necessay to Get a Good C2Pr ,plus you can add Size chart , Quality indicator like An image Showing \"Fitted Bedsheets\",\"thread counts chart \", \n2.1 - first Overall View (showing how can this Bedsheet Transform overall Look Of Bedroom ) , it entices the customer\n2.2 - then 1 image showing Design Pattern ,  gives Clarity\n2.3 - 1 image showing how soft and Comforable Bedsheet is ,Entices the customer \n2.4 - Then Fitted Image if Bedsheet is Fitted , Gives Clarity "
+},
+{
+  "action": "Add product grouping",
+  "intent": "Grouping a set of products is done to give a customer easy access to products that are very similar to one that led them to the website. It provides very similar options and helps improve the chances of them placing an order. For example, all colors of a product can be grouped.\nThe downside of grouping though, is that once it's done, only one of the grouped products will be shown in the ad. For this reason, we avoid grouping, unless we're going to run a banner/video ad on a product."
+},
+{
+  "action": "Remove product grouping",
+  "intent": "Intent\n1. Although grouping has positive affects, removing grouping will help in sceanrio where, grouping should be less than for 6 products, \n2. Mainly it'll help to understand particular product wise(color wise) data of both marketing wise, RTO wise, to get product level Pnl \nResults\n1. Customer will directly land on the product they like, so one step lesser to select color \nExamples\nJhaji Shop with marketing performance, went \nbad when we grouped the products of best sellers, and improved just after we reverted the changes"
+},
+{
+  "action": "Switch ON best seller infinite",
+  "intent": "Intent\nWhen we observe P2P conversion is very low, we remove C2pr widgets, so that, we can increase our conversion on bestsellers only"
+},
+{
+  "action": "Add C2PR widgets",
+  "intent": "Intent\nAdding 5 C2pr widgets is to, give more options to customers, like similar for you (to give products according to range that customer selected), Best sellers, Recent best sellers, which are trending this month, and some other categories below it, so that, they can explore more, if they're not just in interest of the curent produxt."
+},
+{
+  "action": "Add/Remove product sub categories from PP",
+  "intent": "Action :Add/Remove product sub categories from PP\n\nintent  \n 1) adding : widgets are added to show customer more categories for example if a seller is sellings kids wear product then differnt categories like boy ,girls ,party wear ,casual wear are added to give customer more option to buy ,these action help in improving the markeitng performance \n\n2)removing widgets , when most of the product fall in same category and cutomer are buying from only one category ,then we remove other sub categories and make best seller infinite ,so that customer dont get confused on pp page \n\nresult\nhelps in ppo to buy now conversion \nreduces customer confusion \nincreases marketing performance \n\nExample : my lil princess ( improved marketing ) "
+},
+{
+  "action": "Improve testimonials",
+  "intent": "Intent:\nBuild Trust: Show others had positive experiences.\nAuthenticity: Add sincerity and credibility.\nDemonstrate Value: Highlight product benefits.\nEmotional Connection: Create a relatable experience.\nEncourage Action: Motivate potential customers.\n"
+},
+{
+  "action": "Add landmark/alternate ph no. field in address",
+  "intent": "Action : Add landmark/alternate ph no. field in address\nintent \nto give courrier partner more information to deliver the order to the customer , but in genral we switch off landmark and alt phn no., as it reduces the marketing performance and hinders in check out flow \nalt phn no. should be turned on only after seeing ndr reasons for order not getting delivered ,if we see that most of the order are not geeting deliverd becuase number is not  reachable then we can try alt phn no. there \nsame is with landmark ,if most of the order are not getting deliverd beacuse of address issue then we can use it .\n\nBut in ideal condtion if rto is less ,we should keep them off only \n\nResult\nreduces rto \nchances for delivering the product increases \n\nexample \nturned on alt phn number and landmark for hp fab and it helped to reduce rto.\n\n\n"
+},
+{
+  "action": "Add retention/retargeting coupons",
+  "intent": "Action : Add retention/retargeting coupons\nintent \nretnetion and retargeting copuons are used for customer which have already purchased from the webisite and customer that came to website added prodcuct in cart but did not make purchase\nretention coupon are given so that customer can make another purchase in the coming days ,special discount is given to them ,here possibilty of having rto is less \nretargting coupon is given to xutomer that did  not make purchase a message is send to the customer with extra discount , so that he/she can  make the purchase from the wesbite \nresult \nhelps in conversion \nimprove marketing \nimorive rto "
+},
+{
+  "action": "Add cart coupons"
+},
+{
+  "action": "Switch ON/OFF partial COD",
+  "intent": "Action:- Switch ON/OFF Partial COD\n\nIntent:-\n1. Switching ON/OFF partial COD provide flexibility to customers in terms of payment options while mitigating the risks associated with COD orders.\n2. Partial COD allows customers to make partial prepaid payment while paying the remaining amount in cash upon delivery.\n3. Decision to switch ON/OFF partial COD depends on target market, customer preferences, and the specific  strategies that helps in Lowering the RTO rates.\n\nResults:-\n- Switching ON partial COD:\n1. Increasing in Sales with higher customer footfall specially those who are hesitant to make full payments in advance (Low Marketing Spend/GMV).\n2. Higher Customer Satisfaction and Increase Customer Loyalty in purchasing that products (Low RTO).\n3. Reduced Cancellations and Returns (Lower RTO Rates).\n\n- Switching OFF partial COD:-\n1. Mitigating of Fraud Risk or Refusal to accept the Deliveries also can lead to improved security and financial stability (Low or Neglect RTO)\n2. Can streamline logistics operations and allocate their resources more efficiently.\n3. Disabling partial COD may encourage customers to make full payments online and can improve cash flow reduces, cash handling and managing the financial management (High Marketing Spend/GMV)\n\nExamples:-\n- Switching ON partial COD:-\n1. Odelee (Baby Walkers & Cycles):- Baby Toys Category having High AOV around 2K so to reduce RTO rates giving an option of partial COD that will lead to right information of customers and less Cancellation & Return chances. Previously RTO rate was 65% that after partial COD will lead to 55% RTO rate. Also may that will decrease the Marketing Spend/GMV leading to profitability increase with Low Marketing Spend/GMV and Low RTO rates.\n\n- Switching OFF partial COD:-\n2. Believers Emporium (Drones):- Drone Seller with High AOV ranging from 4K to 8K having 72% RTO rate after switching OFF Partial COD and moving to Full Online Payment that will increase the High Marketing Spend/GMV but will almost vanish the RTO rates."
+},
+{
+  "action": "Connect online payment method",
+  "intent": "Action:- Connect Online Payment Method\n\nIntent:-\n1. We need to integrate Online Method since our RTO is High\n2. We have seen cases in the past where we get too lower RTO's after integrating the Online Payment Method\n3. We have also seen cases where integrating Online Payment will reduce the Logistics Charges too.\n\nResults:-\n- Benefits:- Significant RTO reduction resulting in increased profits\n- Less Cancellation & Less Returns that will help in RTO reduction \n\nExamples:-\n1. Decazone (Decorative):- As Previously RTO is nearly 28% but that's been now reduced to 10% after integrating Online Payment Method.\n\n2. Addyz (Daily Essential Items):- After integrating Online Payment his Logistics charges is too reduced (i.e. Rs. 35) as Online discount is given by Logistics partners if Online payment from customers end and that leads too more profitability to seller."
+},
+{
+  "action": "Remove stock out products from website",
+  "intent": "Action:- Remove Stock Out Products from Website\n\nIntent:-\n1. To avoid Customer Frustration \n2. Improve Customer Satisfaction\n3. To avoid Customer Trust\n4. To avoid Marketing Spend/GMV on that particular product\n5. To avoid High RTO Rate\n\nResults:-\n1. Improve Website Performance\n2. Optimize the Marketing Spend/GMV\n3. Optimize the High RTO Rate\n4. Increased Customer Satisfaction & Transparency in the mind of Buyers\n5. Enhance Conversion Rate & Efficient Order Fulfillment timely Lowering RTO's \n\nExamples:-\n1. Odelee (Baby Walkers):- Initially RTO rate was 65% when products are OOS and still showing on Website but then after removing OOS products from website now RTO reduced to 55% & Lowers Marketing Spend/GMV to 4% that overall resulting Increase profitability \n\n2. Silver Buck (Men Shirts):- Initially RTO rate was 60% but after removing OOS products from Website that leads to 50% RTO & Lower Marketing Spend/GMV that overall resulting Increase profitability"
+},
+{
+  "action": "Add testimonials of only bestsellers",
+  "intent": "#N/A"
+},
+{
+  "action": "Add product quality widget",
+  "intent": "Action:- Add Product Quality Widget\n\nIntent:-\n1. To provide customers with transparent and easily accessible information about quality of products sold\n2. To inherent transparency in Customers mind and feature differentiation\n3. To fulfill Customer Expectations, Trust & Credibility \n4. Incorporate Customers reviews and ratings related to product quality that helps prospective buyers make more informed decisions based on experiences shared by previous Customers in testimonials \n5. To Reduce Marketing Spend/GMV & RTO Rates\n\nResults:-\n1. Increased Customer Confidence in making purchases where product quality is crucial factor for buyers\n2. Higher Customer Satisfaction and Low Returns or Negative Reviews \n3. Higher conversation rate lead to Low Marketing Spend/GMV and RTO rates.\n4. Competitive Differentiation leads to Brand attract customers who prioritize quality and willing to pay for premium products that meet buyers expectations\n5. Increasing more Customer engagement on Website leads to Higher Purchasing and exploring more products results Less Marketing Spend/GMV & Less RTO Rates.\n\nExamples:-\n1. Fabindiya (Ethnic Wear):- Initially product quality Widget not present but after adding the Seller had lower RTO Rates from 50% to 30% & Reduced Marketing Spend/GMV from 13% to 8.5%\n\n2. Decazone (Decorative):- Initially product quality Widget not present but after adding the Seller had lower RTO Rates from 29% to 10% & also Reduced Marketing Spend/GMV"
+},
+{
+  "action": "Remove product quality widget",
+  "intent": "Steps:\nTo Change Product quality widget, Login to dashboard, go to Website tab and select product page tab.There along with diffrent widgets , you will find why to buy. To disable it, just click the eye button and then click save ordering.\nLog in to Dashboard->Website->Product page ->Why to buy-\n\nIntent :\nSome websites, who sells products at higher prices needs a justification that why they are selleing at that higher prices. Products quality description is wriiten in why to buy which enables customers to purchase such high price product, But in case of low AOV product we have to delive product quality widget because it takes space in our website and is not relevent for such categories.\n\nResult :\n\nClean look of website with no any irrelevent widget enabeling customers to focus of product itself."
+},
+{
+  "action": "Change theme of website",
+  "intent": "#N/A"
+},
+{
+  "action": "Change font on the website",
+  "intent": "Steps :\nTo Change Font of website, Log in to dashboard, go to website and then to Global Theme and then to advance configuration. You will find font styles section there, You can choose any font style and size according to you then click save.\nLog in to Dashboard->Website->Global Theme->Advance Configurations-> Font Style\n\nIntent :\nThe step to change the website theme has been approached strategically, considering the potential effects on sales and customers. This step has been focused on improving user experience, aligning with the brand, ensuring a smooth transition and getting more orders.\n\nResult :\nReadability: The choice of font style can significantly impact the readability of the website content. If the new font style is legible, well-spaced, and easy on the eyes, it can enhance the reading experience for visitors. \n\nBrand Identity: The font style used on a website contributes to the overall brand identity and visual appeal. Changing the font style can help align the website's typography with the brand's personality, values, and target audience. For instance, a modern and sleek font might convey a sense of professionalism, while a playful and handwritten font could evoke a more casual and creative tone.\n\nDifferentiation: Changing the font style can also be a way to differentiate your website from competitors. Selecting a unique or distinctive font can help your brand stand out and be memorable in the minds of visitors."
+},
+{
+  "action": "Change colour scheme to black/any other colour",
+  "intent": "Steps :\nTo Change color scheme of website, Log in to dashboard, go to website and then to Global Theme and then to advance configuration. You will find various colors there, You can choose any color according to you then click save.\nLog in to Dashboard->Website->Global Theme->Advance Configurations-> color\n\nIntent :\nThe step to change the website theme has been approached strategically, considering the potential effects on sales and customers. This step has been focused on improving user experience, aligning with the brand, ensuring a smooth transition and getting more orders.\n\nResult :\n1.Visual Appeal: A new website theme can refresh the overall look and feel of the site, making it more visually appealing. This can attract new customers and improve user engagement, ultimately leading to increased sales.\n\n2.User Experience: If the new theme enhances the user experience by improving navigation, organizing content more effectively, or providing a more intuitive interface, it can positively impact sales and customer satisfaction. A seamless and user-friendly experience encourages visitors to stay longer on the site, explore more products and complete purchases.\n\n3.Brand Perception: The theme of a website contributes to the overall brand perception. A well-designed and cohesive theme can enhance the brand's image, instill trust, and attract more customers."
+},
+{
+  "action": "Category wise product page",
+  "intent": "For sellers working with multiple categories, it's always helpful to show product pages category-wise because think about it, there's a seller that has suits and sarees, someone who has come to the product page because they were interested in a saree are more likely to purchase if the other options they see are sarees as well."
+},
+{
+  "action": "Check orders in PPH",
+  "intent": "It's concerning when orders stay in pph for longer than 2 days because the longer the seller takes to dispatch, the longer it'll take to reach the customer, leading to a decline in intent/ customer's interest in the product, causing a potential increase in RTO."
+},
+{
+  "action": "Update commerce manager",
+  "intent": "Commerce manager is scheduled to update every morning at 9:30am so any changes that are made to the catalog after this time, won't get updates on the website till the next morning at 9:30am, the only solution to this is manually updating the commerce manager"
+},
+{
+  "action": "Check seller made changes and revert back",
+  "intent": "While it's important to take your seller's requests into consideration, all changes that impact profitability should only be taken after discussion with the GC. \nSome examples are pricing, marking stock of bestsellers 0"
+},
+{
+  "action": "Make product set for particular category/aov range",
+  "intent": "When a seller has products over a range - category/aov - sometimes we try to run different campaigns to target different audiences depending on the product set. For example, customers who are interested in sarees priced under Rs.500 aren't necessarily the same customers that will buy sarees worth Rs.2000 or more."
+},
+{
+  "action": "Add dummy ratings from dashboard",
+  "intent": "1. Ratings build trust and credibility, encouraging potential customers to make purchases.\n2. Ratings influence buying decisions by providing insights from other customers.\n3. Ratings serve as social proof, reinforcing the value and popularity of a product.\nAll of these lead to improved conversion rates"
+}]
