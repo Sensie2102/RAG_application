@@ -1,0 +1,6 @@
+{
+    "Task Title": "ungroup all products",
+    "Metric Targeted": "Marketing",
+    "Predicted Action": "Remove product grouping",
+    "Predicted Intent": "Intent\n1. Although grouping has positive affects, removing grouping will help in sceanrio where, grouping should be less than for 6 products, \n2. Mainly it'll help to understand particular product wise(color wise) data of both marketing wise, RTO wise, to get product level Pnl \nResults\n1. Customer will directly land on the product they like, so one step lesser to select color \nExamples\nJhaji Shop with marketing performance, went \nbad when we grouped the products of best sellers, and improved just after we reverted the changes"
+}

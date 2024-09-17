@@ -1,0 +1,6 @@
+{
+    "Task Title": "if seller doesn't agree to stop calling, then enable confiramation message",
+    "Metric Targeted": "Cancellation",
+    "Predicted Action": "Ask seller to not call and dispatch all orders",
+    "Predicted Intent": "Intent\n-To decrease the marketing expense overall sales\n-To Avoid Hign cancellation of seller side\n-To increase the delivery experience with NDR Conversion. \n- If seller calling quality not good and RTO is so high then stop calling.\nResults\n- There is a chance to get more profit ( When RTO lesser)\n- Some coustmer don't pick the unknown number their is a chance to coustmer picking call of delivery boy ( because vo company ke number se call krte h) So result is RTO Lesser\n-Adjust the marketing budget with lesser cencillation.\n-"
+}
