@@ -1,0 +1,6 @@
+{
+    "Task Title": "1. clear PPH",
+    "Metric Targeted": "RTO",
+    "Predicted Action": "Check orders in PPH",
+    "Predicted Intent": "It's concerning when orders stay in pph for longer than 2 days because the longer the seller takes to dispatch, the longer it'll take to reach the customer, leading to a decline in intent/ customer's interest in the product, causing a potential increase in RTO."
+}

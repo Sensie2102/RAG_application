@@ -1,0 +1,6 @@
+{
+    "Task Title": "update CP of all products",
+    "Metric Targeted": "COGS",
+    "Predicted Action": "Update commerce manager",
+    "Predicted Intent": "Commerce manager is scheduled to update every morning at 9:30am so any changes that are made to the catalog after this time, won't get updates on the website till the next morning at 9:30am, the only solution to this is manually updating the commerce manager"
+}

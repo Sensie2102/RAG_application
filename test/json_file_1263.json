@@ -1,0 +1,6 @@
+{
+    "Task Title": "Solve Pixel Issue",
+    "Metric Targeted": "Marketing",
+    "Predicted Action": "rectify images cutting in ad copy",
+    "Predicted Intent": "Intent : Image is an improtant factor, which makes an user click the ad, it being cut will lead user to ignore the ad and making it's relevancy lesser and hence increases CPM. So, make sure image is not being cut and white space is avoided where possible. \n\nResult: Better CPM and less CPC, eventually helping marketing cost \n\nHow to rectify: If image is cut orginally on product page too, then change images or atleast put the right first image. If image is fine on product page, you can fix it by selecting- zoom out to fit, automatic color (to remove white space)"
+}

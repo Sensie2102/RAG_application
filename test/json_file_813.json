@@ -1,0 +1,6 @@
+{
+    "Task Title": "get correct COGS - if possible reduce both CP, SP",
+    "Metric Targeted": "COGS",
+    "Predicted Action": "Reduce COGS",
+    "Predicted Intent": "Here, COGS percentage is High with respect to marketing and logistics. Here Reduce COGS means is to reduce the COGS % so that we can have buffer for Marketing and Logistics.  \n\nCause\n-As COGS is covering most of the part, so we have less space for marketing, Logistics. \n\nIntent\n-Is to reduce the COGS % by inceasing the selling price.  \n\nResults \n-Less part of COGS will be there in the product price \n\nExample:\nRoyal Rajgharana Saree COGS were 60% so we repriced the COGS at 45-50% to have a margin of safety for marketing and other independent metrics.   \n\n  "
+}

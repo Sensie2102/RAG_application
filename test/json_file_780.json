@@ -1,0 +1,6 @@
+{
+    "Task Title": "Connect Online Payment",
+    "Metric Targeted": "RTO",
+    "Predicted Action": "Connect online payment method",
+    "Predicted Intent": "Action:- Connect Online Payment Method\n\nIntent:-\n1. We need to integrate Online Method since our RTO is High\n2. We have seen cases in the past where we get too lower RTO's after integrating the Online Payment Method\n3. We have also seen cases where integrating Online Payment will reduce the Logistics Charges too.\n\nResults:-\n- Benefits:- Significant RTO reduction resulting in increased profits\n- Less Cancellation & Less Returns that will help in RTO reduction \n\nExamples:-\n1. Decazone (Decorative):- As Previously RTO is nearly 28% but that's been now reduced to 10% after integrating Online Payment Method.\n\n2. Addyz (Daily Essential Items):- After integrating Online Payment his Logistics charges is too reduced (i.e. Rs. 35) as Online discount is given by Logistics partners if Online payment from customers end and that leads too more profitability to seller."
+}

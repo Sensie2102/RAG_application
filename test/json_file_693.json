@@ -1,0 +1,6 @@
+{
+    "Task Title": "delive https://livioz.com/Peach---Lehenga-Choli-with-Mirror-work-and-attached/catalogue/FUEGpT9W/aoOIC48N",
+    "Metric Targeted": "RTO",
+    "Predicted Action": "Remove product quality widget",
+    "Predicted Intent": "Steps:\nTo Change Product quality widget, Login to dashboard, go to Website tab and select product page tab.There along with diffrent widgets , you will find why to buy. To disable it, just click the eye button and then click save ordering.\nLog in to Dashboard->Website->Product page ->Why to buy-\n\nIntent :\nSome websites, who sells products at higher prices needs a justification that why they are selleing at that higher prices. Products quality description is wriiten in why to buy which enables customers to purchase such high price product, But in case of low AOV product we have to delive product quality widget because it takes space in our website and is not relevent for such categories.\n\nResult :\n\nClean look of website with no any irrelevent widget enabeling customers to focus of product itself."
+}

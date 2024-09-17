@@ -1,0 +1,6 @@
+{
+    "Task Title": "Run catalog sales campaig at 1k budget",
+    "Metric Targeted": "Marketing",
+    "Predicted Action": "Switch OFF catalog sales",
+    "Predicted Intent": "Intent\n- When Marketing is unstable even at week level after starting catalog sales\n- Campaign did good for some amount of time and then started geting unstable, indicating that we have found out our best performing products, now the ad has started spending on unfit market products"
+}

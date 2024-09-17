@@ -1,0 +1,6 @@
+{
+    "Task Title": "Turn off Bad Performing Camp",
+    "Metric Targeted": "Marketing",
+    "Predicted Action": "Remove all high RTO states from audience",
+    "Predicted Intent": "Intent : If Marketing is good, but RTO is high, which we check on campaign and state level Pnl , there are some particular states where RTO is high, we exclude those states in our ad, to improve RTO. Also this is after getting data. While starting out a new campiagn, we are usually starting with all open states from which we used to exclude some high RTO known to be states, but with improved logistics support, we are not seeing any significant high RTO here\n\nResult : Better RTO, at cost of Marketing though. "
+}

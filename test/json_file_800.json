@@ -1,0 +1,6 @@
+{
+    "Task Title": "exclude cities pune, panvel, chakan, shirur, Ballabhagarh, Sonepat, and state Uttar Pradesh, JK",
+    "Metric Targeted": "RTO",
+    "Predicted Action": "Add landmark/alternate ph no. field in address",
+    "Predicted Intent": "Action : Add landmark/alternate ph no. field in address\nintent \nto give courrier partner more information to deliver the order to the customer , but in genral we switch off landmark and alt phn no., as it reduces the marketing performance and hinders in check out flow \nalt phn no. should be turned on only after seeing ndr reasons for order not getting delivered ,if we see that most of the order are not geeting deliverd becuase number is not  reachable then we can try alt phn no. there \nsame is with landmark ,if most of the order are not getting deliverd beacuse of address issue then we can use it .\n\nBut in ideal condtion if rto is less ,we should keep them off only \n\nResult\nreduces rto \nchances for delivering the product increases \n\nexample \nturned on alt phn number and landmark for hp fab and it helped to reduce rto.\n\n\n"
+}
